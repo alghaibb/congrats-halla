@@ -120,8 +120,7 @@ export default function Home() {
                 <p className="mt-4 font-medium text-purple-700">
                   You&apos;ve done what most people would&apos;ve quit on.
                   You&apos;re finally a nurse — and no one can ever take that
-                  from you. I love you always, and I&apos;ll never stop being in
-                  awe of you 💜
+                  from you. I love you always, and I&apos;ll never stop loving you, in this life and the hereafter. 💜
                 </p>
               </CardContent>
             </Card>
