@@ -6,7 +6,6 @@ import Image from "next/image";
 import { useState } from "react";
 
 interface CatCompanionProps {
-  id?: string;
   src: string;
   size?: number;
   className?: string;
@@ -21,7 +20,6 @@ interface CatCompanionProps {
 }
 
 export default function CatCompanion({
-  id,
   src,
   size = 80,
   position = {},

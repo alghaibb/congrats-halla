@@ -28,7 +28,7 @@ export default function Home() {
             src="/mish.jpg"
             size={80}
             position={{ bottom: "10%", left: "50%" }}
-            message="You did it! You finally graduated. I'm so proud of you."
+            message="You did it! You finally graduated. I&apos;m so proud of you."
           />
         ) : (
           <CatCompanion
@@ -43,7 +43,7 @@ export default function Home() {
           src="/simba.jpg"
           size={80}
           position={{ top: "10rem", right: "10rem" }}
-          message="You kept going even when it was unfair. That's strength."
+          message="You kept going even when it was unfair. That&apos;s strength."
           messagePosition="right"
         />
 
@@ -69,7 +69,7 @@ export default function Home() {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.4 }}
         >
-          You did it! All the late nights, the hard work, and the passion—I'm so
+          You did it! All the late nights, the hard work, and the passion—I&apos;m so
           proud of you. This is only the beginning 💜
         </motion.p>
 
